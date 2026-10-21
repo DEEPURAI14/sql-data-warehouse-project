@@ -6,7 +6,7 @@ This project shows how to collect, clean, and combine data from different source
 
 ## 🚀 Project Requirements
 
-### 1. Building the Data Warehouse (Data Engineering)
+## 1. Building the Data Warehouse (Data Engineering)
 
 **Objective**
 
